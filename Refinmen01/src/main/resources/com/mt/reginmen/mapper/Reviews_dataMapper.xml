@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mt.reginmen.dao.Reviews_dataMapper">
+
+
+    <insert id="addReviews">
+        insert into reviews_data values (null,#{user_id},#{data_id},#{content})
+    </insert>
+    <delete id="deleteReviews">
+        delete from reviews_data where id=#{id}
+    </delete>
+    <select id="findAllReviews" resultType="com.mt.reginmen.domain.Reviews_data">
+        select * from reviews_data where data_id=#{data_id}
+    </select>
+</mapper>
