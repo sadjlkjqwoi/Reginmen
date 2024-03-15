@@ -31,17 +31,20 @@
 
 **年轻人主题**
 
-![img](file:///C:\Users\XUSHAO~1\AppData\Local\Temp\ksohtml14320\wps1.png) 
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/62d67c37-3e9b-4c58-bf5e-0a54767bb255)
+
 
 **中年人主题**
 
-![img](file:///C:\Users\XUSHAO~1\AppData\Local\Temp\ksohtml14320\wps2.png) 
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/4507774d-7138-43c1-94d3-da6e75bfb48c)
+
 
  
 
 **老年人主题**
 
-![img](file:///C:\Users\XUSHAO~1\AppData\Local\Temp\ksohtml14320\wps3.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/fb6d330a-7a11-4bf2-a009-818e6a41b6fc)
+
 
 ## 功能展示
 
@@ -49,36 +52,43 @@
 
 **个性化标签选择界面**
 
-![image-20240315210113700](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210113700.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/79e0fae8-7708-441b-9da6-5a677e515754)
+
 
 
 
 **热度推荐界面**
 
-![image-20240315210123183](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210123183.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/75e2a5ce-fb55-4d56-9542-fccb54b79371)
+
 
 **个人兴趣推荐界面**
 
-![image-20240315210131422](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210131422.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/1ca09bc1-43ad-44fd-a573-053fee95adef)
+
 
  **食物科普界面**
 
-![image-20240315210146436](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210146436.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/f1551c01-26f5-4beb-b22f-7eb326b70ffa)
 
 **食谱介绍界面**
 
-![image-20240315210153537](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210153537.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/9b39b389-9999-4129-947a-adc6122c7b08)
+
 
 **数据可视化分析界面**
 
-![image-20240315210203777](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210203777.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/7d7a95ae-9e37-42d2-8b37-ea919635c6ec)
 
-![image-20240315210208070](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210208070.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/c059f14a-7b80-4dec-af1a-376bf6814305)
+
 
 **热度话题榜界面**
 
-![image-20240315210216106](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210216106.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/9769d40f-82b4-4db7-90df-f1a809fc6dfe)
+
 
  **用户论坛界面**
 
-![image-20240315210225216](C:\Users\xushaofang\AppData\Roaming\Typora\typora-user-images\image-20240315210225216.png)
+![image](https://github.com/sadjlkjqwoi/Reginmen/assets/118719926/f8a74155-1071-47ed-9830-7516558a0129)
+
